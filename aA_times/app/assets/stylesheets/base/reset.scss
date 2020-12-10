@@ -7,7 +7,7 @@ fieldset, label, input, textarea,
 span, article, footer, time, small {
   margin: 0px;
   padding: 0px;
-  border: 0;
+  border: 0px;
   outline: none;
   font: inherit;
   color: black;
@@ -51,5 +51,6 @@ input[type="submit"] {
 /* Clearfix */
 
 .group:after {
-  overflow: auto;
+  display: block;
+  clear: both;
 }

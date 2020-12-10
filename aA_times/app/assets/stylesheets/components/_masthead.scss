@@ -26,7 +26,15 @@
 
 	ul {
 		display: flex;
+		
+		
 	}
+
+	li {
+		padding: 0 10px;
+	}
+
+	
 }
 
 .logo {
@@ -44,6 +52,7 @@
 	li {
 		margin-left: 10px;
 		border-right: 1px solid $light-gray;
+		
 	}
 
 	button {
