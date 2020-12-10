@@ -201,3 +201,1244 @@ DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is dep
 DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from <top (required)> at /home/daniel/app_Academy/bootcamp_wsl/04_rails/W7D4/projects/aA_times/config/environment.rb:5)
 DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from <top (required)> at /home/daniel/app_Academy/bootcamp_wsl/04_rails/W7D4/projects/aA_times/config/environment.rb:5)
 DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from <top (required)> at /home/daniel/app_Academy/bootcamp_wsl/04_rails/W7D4/projects/aA_times/config/environment.rb:5)
+DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from <top (required)> at /home/daniel/app_Academy/bootcamp_wsl/04_rails/W7D4/projects/aA_times/config/environment.rb:5)
+Started GET "/" for ::1 at 2020-12-10 13:42:30 -0500
+DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from block (3 levels) in <class:Railtie> at /home/daniel/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activerecord-5.0.7.2/lib/active_record/railtie.rb:113)
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 528ms (Views: 526.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2020-12-10 13:42:31 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1" for ::1 at 2020-12-10 13:42:31 -0500
+Started GET "/assets/components/modal.self-52188644dbb47def5ee35ae02e69eb567ca9b664472357a8a5789dd39032a265.js?body=1" for ::1 at 2020-12-10 13:42:31 -0500
+Started GET "/assets/application.self-f571b9db02bf4ed04c38a6a29072ac382f7d4f47db1fab9817aeadb0d8665235.js?body=1" for ::1 at 2020-12-10 13:42:31 -0500
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2020-12-10 13:42:31 -0500
+Started GET "/assets/components/sidebar.self-2a1277f850a6fa21e1a974ef5152f177ac05516477d5081d593bb137b3d6808b.js?body=1" for ::1 at 2020-12-10 13:42:31 -0500
+Started GET "/" for ::1 at 2020-12-10 13:42:45 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.0ms)
+  Rendered shared/_masthead.html.erb (0.7ms)
+  Rendered shared/_sections_nav.html.erb (0.9ms)
+  Rendered shared/_search_modal.html.erb (0.7ms)
+  Rendered shared/_main_content.html.erb (0.8ms)
+  Rendered static_pages/index.html.erb within layouts/application (16.2ms)
+Completed 200 OK in 57ms (Views: 54.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626125723" for ::1 at 2020-12-10 13:48:45 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626125728" for ::1 at 2020-12-10 13:48:45 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626127348" for ::1 at 2020-12-10 13:48:47 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626127350" for ::1 at 2020-12-10 13:48:47 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626131679" for ::1 at 2020-12-10 13:48:51 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626131680" for ::1 at 2020-12-10 13:48:51 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626142872" for ::1 at 2020-12-10 13:49:02 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626142873" for ::1 at 2020-12-10 13:49:02 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626156780" for ::1 at 2020-12-10 13:49:16 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626156784" for ::1 at 2020-12-10 13:49:16 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626168514" for ::1 at 2020-12-10 13:49:28 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626168517" for ::1 at 2020-12-10 13:49:28 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626172756" for ::1 at 2020-12-10 13:49:32 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626172757" for ::1 at 2020-12-10 13:49:32 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626174652" for ::1 at 2020-12-10 13:49:34 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626174654" for ::1 at 2020-12-10 13:49:34 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626183318" for ::1 at 2020-12-10 13:49:43 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626183319" for ::1 at 2020-12-10 13:49:43 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626184401" for ::1 at 2020-12-10 13:49:44 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626184403" for ::1 at 2020-12-10 13:49:44 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626189004" for ::1 at 2020-12-10 13:49:49 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626189007" for ::1 at 2020-12-10 13:49:49 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626190269" for ::1 at 2020-12-10 13:49:50 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626190273" for ::1 at 2020-12-10 13:49:50 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626210763" for ::1 at 2020-12-10 13:50:10 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626210765" for ::1 at 2020-12-10 13:50:10 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626212840" for ::1 at 2020-12-10 13:50:12 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626212841" for ::1 at 2020-12-10 13:50:12 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626213923" for ::1 at 2020-12-10 13:50:13 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626213924" for ::1 at 2020-12-10 13:50:13 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626220875" for ::1 at 2020-12-10 13:50:20 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626220877" for ::1 at 2020-12-10 13:50:20 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626226111" for ::1 at 2020-12-10 13:50:26 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626226112" for ::1 at 2020-12-10 13:50:26 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626231256" for ::1 at 2020-12-10 13:50:31 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626231262" for ::1 at 2020-12-10 13:50:31 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626234869" for ::1 at 2020-12-10 13:50:34 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626234871" for ::1 at 2020-12-10 13:50:34 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626237943" for ::1 at 2020-12-10 13:50:37 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626237944" for ::1 at 2020-12-10 13:50:37 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626244803" for ::1 at 2020-12-10 13:50:44 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626244815" for ::1 at 2020-12-10 13:50:44 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626248324" for ::1 at 2020-12-10 13:50:48 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626248327" for ::1 at 2020-12-10 13:50:48 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626250763" for ::1 at 2020-12-10 13:50:50 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626250767" for ::1 at 2020-12-10 13:50:50 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626252385" for ::1 at 2020-12-10 13:50:52 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626252387" for ::1 at 2020-12-10 13:50:52 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626269720" for ::1 at 2020-12-10 13:51:09 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626269721" for ::1 at 2020-12-10 13:51:09 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626316671" for ::1 at 2020-12-10 13:51:56 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626316673" for ::1 at 2020-12-10 13:51:56 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626318840" for ::1 at 2020-12-10 13:51:58 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626318842" for ::1 at 2020-12-10 13:51:58 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626320827" for ::1 at 2020-12-10 13:52:00 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626320831" for ::1 at 2020-12-10 13:52:00 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626325248" for ::1 at 2020-12-10 13:52:05 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626325249" for ::1 at 2020-12-10 13:52:05 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626347368" for ::1 at 2020-12-10 13:52:27 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626347369" for ::1 at 2020-12-10 13:52:27 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626348903" for ::1 at 2020-12-10 13:52:28 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626348905" for ::1 at 2020-12-10 13:52:28 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626350437" for ::1 at 2020-12-10 13:52:30 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626350440" for ::1 at 2020-12-10 13:52:30 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626354409" for ::1 at 2020-12-10 13:52:34 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626354412" for ::1 at 2020-12-10 13:52:34 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626355493" for ::1 at 2020-12-10 13:52:35 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626355497" for ::1 at 2020-12-10 13:52:35 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626357749" for ::1 at 2020-12-10 13:52:37 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626357751" for ::1 at 2020-12-10 13:52:37 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626370750" for ::1 at 2020-12-10 13:52:50 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626370751" for ::1 at 2020-12-10 13:52:50 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626378153" for ::1 at 2020-12-10 13:52:58 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626378154" for ::1 at 2020-12-10 13:52:58 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626379699" for ::1 at 2020-12-10 13:52:59 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626379701" for ::1 at 2020-12-10 13:52:59 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626386098" for ::1 at 2020-12-10 13:53:06 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626386099" for ::1 at 2020-12-10 13:53:06 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626391251" for ::1 at 2020-12-10 13:53:11 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626391253" for ::1 at 2020-12-10 13:53:11 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626392507" for ::1 at 2020-12-10 13:53:12 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626392508" for ::1 at 2020-12-10 13:53:12 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626395691" for ::1 at 2020-12-10 13:53:15 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626395699" for ::1 at 2020-12-10 13:53:15 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626400633" for ::1 at 2020-12-10 13:53:20 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626400637" for ::1 at 2020-12-10 13:53:20 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626403252" for ::1 at 2020-12-10 13:53:23 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626403254" for ::1 at 2020-12-10 13:53:23 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626405328" for ::1 at 2020-12-10 13:53:25 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626405329" for ::1 at 2020-12-10 13:53:25 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626409482" for ::1 at 2020-12-10 13:53:29 -0500
+Started GET "/assets/application.self-e2b78c695e5bbe7bc4faf690eb527524a517b2c2a6d78c73580a09e107ca75a4.css?body=1&livereload=1607626409484" for ::1 at 2020-12-10 13:53:29 -0500
+Started GET "/" for ::1 at 2020-12-10 13:53:34 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.5ms)
+  Rendered shared/_masthead.html.erb (0.7ms)
+  Rendered shared/_sections_nav.html.erb (1.2ms)
+  Rendered shared/_search_modal.html.erb (1.5ms)
+  Rendered shared/_main_content.html.erb (2.0ms)
+  Rendered static_pages/index.html.erb within layouts/application (18.7ms)
+Completed 500 Internal Server Error in 68ms (ActiveRecord: 0.0ms)
+
+
+
+Sass::SyntaxError - Invalid CSS after "  background:": expected expression (e.g. 1px, bold), was "}":
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2776734091283956089_70093672429760'
+
+Started POST "/__better_errors/30ee2d1c0e635bb7/variables" for ::1 at 2020-12-10 13:53:34 -0500
+Started GET "/" for ::1 at 2020-12-10 13:54:17 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.8ms)
+  Rendered shared/_masthead.html.erb (0.6ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.5ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (12.6ms)
+Completed 500 Internal Server Error in 50ms (ActiveRecord: 0.0ms)
+
+
+
+Sass::SyntaxError - Undefined variable: "$light-gray".:
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2776734091283956089_70093681979780'
+
+Started POST "/__better_errors/bdde25550dbf649d/variables" for ::1 at 2020-12-10 13:54:17 -0500
+Started GET "/" for ::1 at 2020-12-10 13:54:19 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (0.5ms)
+  Rendered shared/_sections_nav.html.erb (0.9ms)
+  Rendered shared/_search_modal.html.erb (0.6ms)
+  Rendered shared/_main_content.html.erb (1.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (14.1ms)
+Completed 500 Internal Server Error in 65ms (ActiveRecord: 0.0ms)
+
+
+
+Sass::SyntaxError - Undefined variable: "$light-gray".:
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2776734091283956089_70093686288600'
+
+Started POST "/__better_errors/cd9a29420819f842/variables" for ::1 at 2020-12-10 13:54:20 -0500
+Started GET "/" for ::1 at 2020-12-10 13:55:07 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (1.2ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.5ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (13.3ms)
+Completed 200 OK in 127ms (Views: 123.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e6df4fcb152a81d5048fff5703de2c91fec2afa1bea5840c7792cdcc2911cebc.css?body=1" for ::1 at 2020-12-10 13:55:07 -0500
+Started GET "/assets/application.self-e6df4fcb152a81d5048fff5703de2c91fec2afa1bea5840c7792cdcc2911cebc.css?body=1&livereload=1607626528380" for ::1 at 2020-12-10 13:55:28 -0500
+Started GET "/assets/application.self-e6df4fcb152a81d5048fff5703de2c91fec2afa1bea5840c7792cdcc2911cebc.css?body=1&livereload=1607626528382" for ::1 at 2020-12-10 13:55:28 -0500
+Started GET "/assets/application.self-e6df4fcb152a81d5048fff5703de2c91fec2afa1bea5840c7792cdcc2911cebc.css?body=1&livereload=1607626529735" for ::1 at 2020-12-10 13:55:29 -0500
+Started GET "/assets/application.self-e6df4fcb152a81d5048fff5703de2c91fec2afa1bea5840c7792cdcc2911cebc.css?body=1&livereload=1607626529741" for ::1 at 2020-12-10 13:55:29 -0500
+Started GET "/assets/application.self-e6df4fcb152a81d5048fff5703de2c91fec2afa1bea5840c7792cdcc2911cebc.css?body=1&livereload=1607626531810" for ::1 at 2020-12-10 13:55:31 -0500
+Started GET "/assets/application.self-e6df4fcb152a81d5048fff5703de2c91fec2afa1bea5840c7792cdcc2911cebc.css?body=1&livereload=1607626531812" for ::1 at 2020-12-10 13:55:31 -0500
+Started GET "/" for ::1 at 2020-12-10 13:55:35 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.9ms)
+  Rendered shared/_main_content.html.erb (2.1ms)
+  Rendered static_pages/index.html.erb within layouts/application (11.5ms)
+Completed 200 OK in 51ms (Views: 49.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1" for ::1 at 2020-12-10 13:55:35 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626766706" for ::1 at 2020-12-10 13:59:26 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626766710" for ::1 at 2020-12-10 13:59:26 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626769504" for ::1 at 2020-12-10 13:59:29 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626769510" for ::1 at 2020-12-10 13:59:29 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626771310" for ::1 at 2020-12-10 13:59:31 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626771311" for ::1 at 2020-12-10 13:59:31 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626773569" for ::1 at 2020-12-10 13:59:33 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626773570" for ::1 at 2020-12-10 13:59:33 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626774922" for ::1 at 2020-12-10 13:59:34 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626774923" for ::1 at 2020-12-10 13:59:34 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626776367" for ::1 at 2020-12-10 13:59:36 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626776368" for ::1 at 2020-12-10 13:59:36 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626781966" for ::1 at 2020-12-10 13:59:41 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626781968" for ::1 at 2020-12-10 13:59:41 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626789915" for ::1 at 2020-12-10 13:59:49 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626789919" for ::1 at 2020-12-10 13:59:49 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626791539" for ::1 at 2020-12-10 13:59:51 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626791540" for ::1 at 2020-12-10 13:59:51 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626796959" for ::1 at 2020-12-10 13:59:56 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626796961" for ::1 at 2020-12-10 13:59:56 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626799669" for ::1 at 2020-12-10 13:59:59 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626799670" for ::1 at 2020-12-10 13:59:59 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626801836" for ::1 at 2020-12-10 14:00:01 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626801838" for ::1 at 2020-12-10 14:00:01 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626803823" for ::1 at 2020-12-10 14:00:03 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626803824" for ::1 at 2020-12-10 14:00:03 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626806625" for ::1 at 2020-12-10 14:00:06 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626806632" for ::1 at 2020-12-10 14:00:06 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626811139" for ::1 at 2020-12-10 14:00:11 -0500
+Started GET "/assets/application.self-fe666da43a159b8be69c0a2c1a24070532fc9f3b7d5cc7d2a5a1c28080138243.css?body=1&livereload=1607626811142" for ::1 at 2020-12-10 14:00:11 -0500
+Started GET "/" for ::1 at 2020-12-10 14:05:00 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 37ms (Views: 36.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-0d48d38763eadbcb5ed11448f5b7ec796fc91c8093b6e26fe97027676fd21a05.css?body=1" for ::1 at 2020-12-10 14:05:00 -0500
+Started GET "/" for ::1 at 2020-12-10 14:12:38 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.6ms)
+  Rendered shared/_sections_nav.html.erb (0.6ms)
+  Rendered shared/_search_modal.html.erb (0.5ms)
+  Rendered shared/_main_content.html.erb (3.1ms)
+  Rendered static_pages/index.html.erb within layouts/application (15.2ms)
+Completed 200 OK in 47ms (Views: 46.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:16:18 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.6ms)
+  Rendered shared/_masthead.html.erb (0.6ms)
+  Rendered shared/_sections_nav.html.erb (1.5ms)
+  Rendered shared/_search_modal.html.erb (1.5ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (23.6ms)
+Completed 200 OK in 50ms (Views: 47.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:16:21 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.1ms)
+  Rendered shared/_masthead.html.erb (0.9ms)
+  Rendered shared/_sections_nav.html.erb (3.4ms)
+  Rendered shared/_search_modal.html.erb (1.1ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (25.2ms)
+Completed 200 OK in 64ms (Views: 61.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:17:02 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.4ms)
+  Rendered shared/_masthead.html.erb (1.4ms)
+  Rendered shared/_sections_nav.html.erb (0.6ms)
+  Rendered shared/_search_modal.html.erb (0.5ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (14.9ms)
+Completed 200 OK in 37ms (Views: 35.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:17:06 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.5ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.7ms)
+  Rendered shared/_main_content.html.erb (0.7ms)
+  Rendered static_pages/index.html.erb within layouts/application (11.2ms)
+Completed 200 OK in 57ms (Views: 53.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:17:24 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.0ms)
+  Rendered shared/_masthead.html.erb (1.3ms)
+  Rendered shared/_sections_nav.html.erb (1.2ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (21.0ms)
+Completed 200 OK in 43ms (Views: 42.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:17:35 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (1.7ms)
+  Rendered shared/_sections_nav.html.erb (1.0ms)
+  Rendered shared/_search_modal.html.erb (0.7ms)
+  Rendered shared/_main_content.html.erb (1.0ms)
+  Rendered static_pages/index.html.erb within layouts/application (13.1ms)
+Completed 200 OK in 32ms (Views: 31.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:17:39 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.4ms)
+  Rendered shared/_masthead.html.erb (0.9ms)
+  Rendered shared/_sections_nav.html.erb (1.1ms)
+  Rendered shared/_search_modal.html.erb (1.3ms)
+  Rendered shared/_main_content.html.erb (1.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (20.2ms)
+Completed 200 OK in 40ms (Views: 37.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:17:46 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.8ms)
+Completed 200 OK in 22ms (Views: 20.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:17:48 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 24ms (Views: 22.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:18:08 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.8ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (10.5ms)
+Completed 200 OK in 27ms (Views: 25.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:18:17 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.5ms)
+  Rendered shared/_main_content.html.erb (2.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (8.8ms)
+Completed 200 OK in 20ms (Views: 19.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:18:18 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.6ms)
+  Rendered shared/_main_content.html.erb (1.7ms)
+  Rendered static_pages/index.html.erb within layouts/application (11.6ms)
+Completed 200 OK in 47ms (Views: 46.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:18:21 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (6.5ms)
+Completed 200 OK in 31ms (Views: 29.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:18:23 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (7.2ms)
+Completed 200 OK in 23ms (Views: 20.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:18:26 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (8.7ms)
+Completed 200 OK in 24ms (Views: 22.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:18:29 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (0.6ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (8.4ms)
+Completed 200 OK in 47ms (Views: 45.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:18:36 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.1ms)
+  Rendered shared/_masthead.html.erb (0.8ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.7ms)
+  Rendered static_pages/index.html.erb within layouts/application (19.4ms)
+Completed 200 OK in 63ms (Views: 60.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:18:57 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (6.3ms)
+Completed 200 OK in 30ms (Views: 26.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:18:59 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.5ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (6.6ms)
+Completed 200 OK in 31ms (Views: 30.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:19:00 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.8ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.6ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.7ms)
+  Rendered static_pages/index.html.erb within layouts/application (15.6ms)
+Completed 200 OK in 55ms (Views: 53.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:19:09 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.7ms)
+  Rendered shared/_masthead.html.erb (1.2ms)
+  Rendered shared/_sections_nav.html.erb (0.7ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.7ms)
+  Rendered static_pages/index.html.erb within layouts/application (11.8ms)
+Completed 200 OK in 45ms (Views: 43.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:19:14 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.6ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (7.3ms)
+Completed 200 OK in 38ms (Views: 37.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:19:20 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.7ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (10.8ms)
+Completed 200 OK in 28ms (Views: 25.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:19:28 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 23ms (Views: 22.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:19:54 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 25ms (Views: 24.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:21:10 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.6ms)
+  Rendered static_pages/index.html.erb within layouts/application (9.2ms)
+Completed 200 OK in 40ms (Views: 37.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:21:13 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.4ms)
+  Rendered shared/_masthead.html.erb (1.2ms)
+  Rendered shared/_sections_nav.html.erb (1.1ms)
+  Rendered shared/_search_modal.html.erb (0.9ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (16.4ms)
+Completed 200 OK in 39ms (Views: 37.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:21:53 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (2.2ms)
+  Rendered shared/_masthead.html.erb (0.5ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (13.3ms)
+Completed 200 OK in 63ms (Views: 61.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:22:25 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.7ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 38ms (Views: 36.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:23:03 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.6ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 33ms (Views: 31.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:23:10 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.6ms)
+  Rendered static_pages/index.html.erb within layouts/application (5.4ms)
+Completed 200 OK in 39ms (Views: 38.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-0d48d38763eadbcb5ed11448f5b7ec796fc91c8093b6e26fe97027676fd21a05.css?body=1&livereload=1607628220934" for ::1 at 2020-12-10 14:23:40 -0500
+Started GET "/assets/application.self-0d48d38763eadbcb5ed11448f5b7ec796fc91c8093b6e26fe97027676fd21a05.css?body=1&livereload=1607628220935" for ::1 at 2020-12-10 14:23:40 -0500
+Started GET "/" for ::1 at 2020-12-10 14:24:53 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.0ms)
+  Rendered shared/_masthead.html.erb (0.5ms)
+  Rendered shared/_sections_nav.html.erb (0.8ms)
+  Rendered shared/_search_modal.html.erb (0.5ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (10.0ms)
+Completed 500 Internal Server Error in 60ms (ActiveRecord: 0.0ms)
+
+
+
+Sass::SyntaxError - Invalid CSS after "	// text-align:": expected expression (e.g. 1px, bold), was "}":
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2776734091283956089_70093682384520'
+
+Started POST "/__better_errors/00c6ead7c398e6cf/variables" for ::1 at 2020-12-10 14:24:54 -0500
+Started GET "/" for ::1 at 2020-12-10 14:24:59 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (5.6ms)
+Completed 500 Internal Server Error in 42ms (ActiveRecord: 0.0ms)
+
+
+
+Sass::SyntaxError - Invalid CSS after "	// text-align:": expected expression (e.g. 1px, bold), was "}":
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2776734091283956089_70093685915100'
+
+Started POST "/__better_errors/11890ff4d22f26f6/variables" for ::1 at 2020-12-10 14:24:59 -0500
+Started GET "/" for ::1 at 2020-12-10 14:25:02 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.8ms)
+  Rendered shared/_sections_nav.html.erb (1.0ms)
+  Rendered shared/_search_modal.html.erb (0.5ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (9.6ms)
+Completed 500 Internal Server Error in 50ms (ActiveRecord: 0.0ms)
+
+
+
+Sass::SyntaxError - Invalid CSS after "	// text-align:": expected expression (e.g. 1px, bold), was "}":
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2776734091283956089_46961481464580'
+
+Started POST "/__better_errors/65cc4f8b38056d82/variables" for ::1 at 2020-12-10 14:25:02 -0500
+Started GET "/" for ::1 at 2020-12-10 14:25:06 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.8ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (1.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (17.0ms)
+Completed 500 Internal Server Error in 47ms (ActiveRecord: 0.0ms)
+
+
+
+Sass::SyntaxError - Invalid CSS after "	// text-align:": expected expression (e.g. 1px, bold), was "}":
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2776734091283956089_70093532511800'
+
+Started POST "/__better_errors/f9b9c2bc7fe6b1e2/variables" for ::1 at 2020-12-10 14:25:06 -0500
+Started GET "/" for ::1 at 2020-12-10 14:25:12 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (1.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (7.9ms)
+Completed 500 Internal Server Error in 45ms (ActiveRecord: 0.0ms)
+
+
+
+Sass::SyntaxError - Invalid CSS after "	// text-align:": expected expression (e.g. 1px, bold), was "}":
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2776734091283956089_70093685909240'
+
+Started POST "/__better_errors/aac78d23cfe29c6c/variables" for ::1 at 2020-12-10 14:25:12 -0500
+Started GET "/" for ::1 at 2020-12-10 14:25:17 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.5ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.5ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (17.8ms)
+Completed 500 Internal Server Error in 72ms (ActiveRecord: 0.0ms)
+
+
+
+Sass::SyntaxError - Invalid CSS after "	// text-align:": expected expression (e.g. 1px, bold), was "}":
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2776734091283956089_46961480824000'
+
+Started POST "/__better_errors/67c070d29573d9ff/variables" for ::1 at 2020-12-10 14:25:18 -0500
+Started GET "/" for ::1 at 2020-12-10 14:25:20 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (2.6ms)
+  Rendered shared/_masthead.html.erb (0.8ms)
+  Rendered shared/_sections_nav.html.erb (0.7ms)
+  Rendered shared/_search_modal.html.erb (0.5ms)
+  Rendered shared/_main_content.html.erb (0.7ms)
+  Rendered static_pages/index.html.erb within layouts/application (19.8ms)
+Completed 500 Internal Server Error in 58ms (ActiveRecord: 0.0ms)
+
+
+
+Sass::SyntaxError - Invalid CSS after "	// text-align:": expected expression (e.g. 1px, bold), was "}":
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2776734091283956089_70093679789480'
+
+Started POST "/__better_errors/9fd9f91d09474d8a/variables" for ::1 at 2020-12-10 14:25:20 -0500
+Started POST "/__better_errors/9fd9f91d09474d8a/variables" for ::1 at 2020-12-10 14:25:29 -0500
+Started GET "/" for ::1 at 2020-12-10 14:25:36 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.9ms)
+  Rendered shared/_masthead.html.erb (0.5ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (12.9ms)
+Completed 500 Internal Server Error in 70ms (ActiveRecord: 0.0ms)
+
+
+
+Sass::SyntaxError - Invalid CSS after "	// text-align:": expected expression (e.g. 1px, bold), was "}":
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2776734091283956089_70093670613020'
+
+Started POST "/__better_errors/f99fb0d483d3e496/variables" for ::1 at 2020-12-10 14:25:36 -0500
+Started GET "/" for ::1 at 2020-12-10 14:25:40 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.9ms)
+  Rendered static_pages/index.html.erb within layouts/application (13.4ms)
+Completed 500 Internal Server Error in 71ms (ActiveRecord: 0.0ms)
+
+
+
+Sass::SyntaxError - Invalid CSS after "	// text-align:": expected expression (e.g. 1px, bold), was "}":
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2776734091283956089_70093681011040'
+
+Started POST "/__better_errors/e08c7678014a3c96/variables" for ::1 at 2020-12-10 14:25:41 -0500
+Started GET "/" for ::1 at 2020-12-10 14:26:00 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.1ms)
+  Rendered shared/_masthead.html.erb (0.8ms)
+  Rendered shared/_sections_nav.html.erb (0.9ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.8ms)
+  Rendered static_pages/index.html.erb within layouts/application (19.0ms)
+Completed 500 Internal Server Error in 78ms (ActiveRecord: 0.0ms)
+
+
+
+Sass::SyntaxError - Invalid CSS after "	// text-align:": expected expression (e.g. 1px, bold), was "}":
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2776734091283956089_70093685557600'
+
+Started POST "/__better_errors/ae202d8ff65b9599/variables" for ::1 at 2020-12-10 14:26:01 -0500
+Started GET "/" for ::1 at 2020-12-10 14:26:03 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.4ms)
+  Rendered shared/_masthead.html.erb (2.4ms)
+  Rendered shared/_sections_nav.html.erb (0.6ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.6ms)
+  Rendered static_pages/index.html.erb within layouts/application (15.7ms)
+Completed 500 Internal Server Error in 52ms (ActiveRecord: 0.0ms)
+
+
+
+Sass::SyntaxError - Invalid CSS after "	// text-align:": expected expression (e.g. 1px, bold), was "}":
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2776734091283956089_70093532539700'
+
+Started POST "/__better_errors/b3f0178a3f7d6b03/variables" for ::1 at 2020-12-10 14:26:04 -0500
+Started GET "/" for ::1 at 2020-12-10 14:26:05 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.7ms)
+  Rendered shared/_masthead.html.erb (0.7ms)
+  Rendered shared/_sections_nav.html.erb (0.6ms)
+  Rendered shared/_search_modal.html.erb (1.4ms)
+  Rendered shared/_main_content.html.erb (3.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (23.7ms)
+Completed 500 Internal Server Error in 71ms (ActiveRecord: 0.0ms)
+
+
+
+Sass::SyntaxError - Invalid CSS after "	// text-align:": expected expression (e.g. 1px, bold), was "}":
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2776734091283956089_70093669585280'
+
+Started POST "/__better_errors/7d1b51961a082edc/variables" for ::1 at 2020-12-10 14:26:05 -0500
+Started GET "/" for ::1 at 2020-12-10 14:26:13 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.3ms)
+  Rendered shared/_masthead.html.erb (0.7ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.9ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (15.5ms)
+Completed 500 Internal Server Error in 67ms (ActiveRecord: 0.0ms)
+
+
+
+Sass::SyntaxError - Invalid CSS after "	// text-align:": expected expression (e.g. 1px, bold), was "}":
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2776734091283956089_70093671927520'
+
+Started POST "/__better_errors/3dcba16c9a870c7c/variables" for ::1 at 2020-12-10 14:26:14 -0500
+Started POST "/__better_errors/3dcba16c9a870c7c/eval" for ::1 at 2020-12-10 14:26:15 -0500
+Started GET "/" for ::1 at 2020-12-10 14:28:15 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (2.0ms)
+  Rendered shared/_masthead.html.erb (1.9ms)
+  Rendered shared/_sections_nav.html.erb (0.7ms)
+  Rendered shared/_search_modal.html.erb (0.5ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (23.3ms)
+Completed 200 OK in 199ms (Views: 196.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1" for ::1 at 2020-12-10 14:28:15 -0500
+Started GET "/" for ::1 at 2020-12-10 14:28:46 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.6ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 28ms (Views: 27.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:28:49 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.5ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.6ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (7.7ms)
+Completed 200 OK in 41ms (Views: 39.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:28:52 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.5ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.9ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (7.9ms)
+Completed 200 OK in 35ms (Views: 33.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:28:54 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.8ms)
+  Rendered shared/_masthead.html.erb (0.8ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (9.2ms)
+Completed 200 OK in 44ms (Views: 42.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:29:01 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.6ms)
+  Rendered shared/_masthead.html.erb (1.1ms)
+  Rendered shared/_sections_nav.html.erb (1.7ms)
+  Rendered shared/_search_modal.html.erb (1.3ms)
+  Rendered shared/_main_content.html.erb (0.7ms)
+  Rendered static_pages/index.html.erb within layouts/application (18.8ms)
+Completed 200 OK in 38ms (Views: 37.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:29:03 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.0ms)
+  Rendered shared/_masthead.html.erb (0.9ms)
+  Rendered shared/_sections_nav.html.erb (0.9ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (13.8ms)
+Completed 200 OK in 57ms (Views: 55.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:29:21 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 36ms (Views: 35.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:29:23 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.2ms)
+  Rendered shared/_masthead.html.erb (0.8ms)
+  Rendered shared/_sections_nav.html.erb (1.5ms)
+  Rendered shared/_search_modal.html.erb (0.5ms)
+  Rendered shared/_main_content.html.erb (1.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (24.6ms)
+Completed 200 OK in 71ms (Views: 68.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:29:28 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.6ms)
+  Rendered shared/_masthead.html.erb (0.5ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.8ms)
+  Rendered shared/_main_content.html.erb (0.8ms)
+  Rendered static_pages/index.html.erb within layouts/application (14.5ms)
+Completed 200 OK in 31ms (Views: 29.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:29:35 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.1ms)
+  Rendered shared/_masthead.html.erb (1.4ms)
+  Rendered shared/_sections_nav.html.erb (0.8ms)
+  Rendered shared/_search_modal.html.erb (2.0ms)
+  Rendered shared/_main_content.html.erb (2.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (27.6ms)
+Completed 200 OK in 58ms (Views: 54.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:29:37 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.9ms)
+  Rendered shared/_masthead.html.erb (0.6ms)
+  Rendered shared/_sections_nav.html.erb (1.3ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (15.7ms)
+Completed 200 OK in 65ms (Views: 55.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:29:42 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.7ms)
+  Rendered shared/_masthead.html.erb (0.7ms)
+  Rendered shared/_sections_nav.html.erb (3.3ms)
+  Rendered shared/_search_modal.html.erb (1.9ms)
+  Rendered shared/_main_content.html.erb (1.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (22.4ms)
+Completed 200 OK in 61ms (Views: 60.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:29:46 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.3ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (11.1ms)
+Completed 200 OK in 45ms (Views: 43.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:29:51 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.5ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 40ms (Views: 37.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:29:53 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.6ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.9ms)
+  Rendered shared/_main_content.html.erb (1.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (17.6ms)
+Completed 200 OK in 46ms (Views: 43.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:29:55 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.5ms)
+  Rendered shared/_masthead.html.erb (0.9ms)
+  Rendered shared/_sections_nav.html.erb (0.6ms)
+  Rendered shared/_search_modal.html.erb (0.6ms)
+  Rendered shared/_main_content.html.erb (0.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (14.7ms)
+Completed 200 OK in 46ms (Views: 43.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:29:58 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.8ms)
+  Rendered shared/_main_content.html.erb (3.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (12.6ms)
+Completed 200 OK in 45ms (Views: 44.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628641893" for ::1 at 2020-12-10 14:30:41 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628641899" for ::1 at 2020-12-10 14:30:41 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628658767" for ::1 at 2020-12-10 14:30:58 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628658768" for ::1 at 2020-12-10 14:30:58 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628661207" for ::1 at 2020-12-10 14:31:01 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628661208" for ::1 at 2020-12-10 14:31:01 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628665632" for ::1 at 2020-12-10 14:31:05 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628665632&livereload=1607628665632" for ::1 at 2020-12-10 14:31:05 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628667890&livereload=1607628665632" for ::1 at 2020-12-10 14:31:07 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628667891&livereload=1607628665632" for ::1 at 2020-12-10 14:31:07 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628669607&livereload=1607628665632" for ::1 at 2020-12-10 14:31:09 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628669608&livereload=1607628665632" for ::1 at 2020-12-10 14:31:09 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628672404&livereload=1607628665632" for ::1 at 2020-12-10 14:31:12 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628672405&livereload=1607628665632" for ::1 at 2020-12-10 14:31:12 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628676647&livereload=1607628665632" for ::1 at 2020-12-10 14:31:16 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628676650&livereload=1607628665632" for ::1 at 2020-12-10 14:31:16 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628681357&livereload=1607628665632" for ::1 at 2020-12-10 14:31:21 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628681359&livereload=1607628665632" for ::1 at 2020-12-10 14:31:21 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628689933&livereload=1607628665632" for ::1 at 2020-12-10 14:31:29 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628689935&livereload=1607628665632" for ::1 at 2020-12-10 14:31:29 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628691648&livereload=1607628665632" for ::1 at 2020-12-10 14:31:31 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628691650&livereload=1607628665632" for ::1 at 2020-12-10 14:31:31 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628693005&livereload=1607628665632" for ::1 at 2020-12-10 14:31:33 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628693007&livereload=1607628665632" for ::1 at 2020-12-10 14:31:33 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628696526&livereload=1607628665632" for ::1 at 2020-12-10 14:31:36 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628696528&livereload=1607628665632" for ::1 at 2020-12-10 14:31:36 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628705643&livereload=1607628665632" for ::1 at 2020-12-10 14:31:45 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628705644&livereload=1607628665632" for ::1 at 2020-12-10 14:31:45 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628707360&livereload=1607628665632" for ::1 at 2020-12-10 14:31:47 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628707359&livereload=1607628665632" for ::1 at 2020-12-10 14:31:47 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628709707&livereload=1607628665632" for ::1 at 2020-12-10 14:31:49 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628709706&livereload=1607628665632" for ::1 at 2020-12-10 14:31:49 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628721894&livereload=1607628665632" for ::1 at 2020-12-10 14:32:01 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628721898&livereload=1607628665632" for ::1 at 2020-12-10 14:32:01 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628729131&livereload=1607628665632" for ::1 at 2020-12-10 14:32:09 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628729132&livereload=1607628665632" for ::1 at 2020-12-10 14:32:09 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628754407&livereload=1607628665632" for ::1 at 2020-12-10 14:32:34 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628754412&livereload=1607628665632" for ::1 at 2020-12-10 14:32:34 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628757750&livereload=1607628665632" for ::1 at 2020-12-10 14:32:37 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628757748&livereload=1607628665632" for ::1 at 2020-12-10 14:32:37 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628760547&livereload=1607628665632" for ::1 at 2020-12-10 14:32:40 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628760551&livereload=1607628665632" for ::1 at 2020-12-10 14:32:40 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628763435&livereload=1607628665632" for ::1 at 2020-12-10 14:32:43 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628763436&livereload=1607628665632" for ::1 at 2020-12-10 14:32:43 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628768222&livereload=1607628665632" for ::1 at 2020-12-10 14:32:48 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628768225&livereload=1607628665632" for ::1 at 2020-12-10 14:32:48 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628792416&livereload=1607628665632" for ::1 at 2020-12-10 14:33:12 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628792420&livereload=1607628665632" for ::1 at 2020-12-10 14:33:12 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628796839&livereload=1607628665632" for ::1 at 2020-12-10 14:33:16 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628796841&livereload=1607628665632" for ::1 at 2020-12-10 14:33:16 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628800721&livereload=1607628665632" for ::1 at 2020-12-10 14:33:20 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628800726&livereload=1607628665632" for ::1 at 2020-12-10 14:33:20 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628833399&livereload=1607628665632" for ::1 at 2020-12-10 14:33:53 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628833400&livereload=1607628665632" for ::1 at 2020-12-10 14:33:53 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628834664&livereload=1607628665632" for ::1 at 2020-12-10 14:33:54 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628834665&livereload=1607628665632" for ::1 at 2020-12-10 14:33:54 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628857594&livereload=1607628665632" for ::1 at 2020-12-10 14:34:17 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607628857597&livereload=1607628665632" for ::1 at 2020-12-10 14:34:17 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629038577&livereload=1607628665632" for ::1 at 2020-12-10 14:37:18 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629038578&livereload=1607628665632" for ::1 at 2020-12-10 14:37:18 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629046610&livereload=1607628665632" for ::1 at 2020-12-10 14:37:26 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629046611&livereload=1607628665632" for ::1 at 2020-12-10 14:37:26 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629052388&livereload=1607628665632" for ::1 at 2020-12-10 14:37:32 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629052389&livereload=1607628665632" for ::1 at 2020-12-10 14:37:32 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629055096&livereload=1607628665632" for ::1 at 2020-12-10 14:37:35 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629055099&livereload=1607628665632" for ::1 at 2020-12-10 14:37:35 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629057263&livereload=1607628665632" for ::1 at 2020-12-10 14:37:37 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629057265&livereload=1607628665632" for ::1 at 2020-12-10 14:37:37 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629060423&livereload=1607628665632" for ::1 at 2020-12-10 14:37:40 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629060426&livereload=1607628665632" for ::1 at 2020-12-10 14:37:40 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629065028&livereload=1607628665632" for ::1 at 2020-12-10 14:37:45 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629065027&livereload=1607628665632" for ::1 at 2020-12-10 14:37:45 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629067374&livereload=1607628665632" for ::1 at 2020-12-10 14:37:47 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629067377&livereload=1607628665632" for ::1 at 2020-12-10 14:37:47 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629105747&livereload=1607628665632" for ::1 at 2020-12-10 14:38:25 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629105749&livereload=1607628665632" for ::1 at 2020-12-10 14:38:25 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629128678&livereload=1607628665632" for ::1 at 2020-12-10 14:38:48 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629128679&livereload=1607628665632" for ::1 at 2020-12-10 14:38:48 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629131296&livereload=1607628665632" for ::1 at 2020-12-10 14:38:51 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629131297&livereload=1607628665632" for ::1 at 2020-12-10 14:38:51 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629134726&livereload=1607628665632" for ::1 at 2020-12-10 14:38:54 -0500
+Started GET "/assets/application.self-e4364b73daaa6644dada68a4d899cadf816aa5e307e290708be99d8fc27f3db3.css?body=1&livereload=1607629134725&livereload=1607628665632" for ::1 at 2020-12-10 14:38:54 -0500
+Started GET "/" for ::1 at 2020-12-10 14:43:23 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.5ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (7.1ms)
+Completed 500 Internal Server Error in 34ms (ActiveRecord: 0.0ms)
+
+
+
+Sass::SyntaxError - Invalid CSS after "	border-color:": expected expression (e.g. 1px, bold), was "}":
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2776734091283956089_70093633519840'
+
+Started POST "/__better_errors/ab6c890e0cc793bc/variables" for ::1 at 2020-12-10 14:43:23 -0500
+Started GET "/" for ::1 at 2020-12-10 14:43:26 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (5.0ms)
+Completed 500 Internal Server Error in 31ms (ActiveRecord: 0.0ms)
+
+
+
+Sass::SyntaxError - Invalid CSS after "	border-color:": expected expression (e.g. 1px, bold), was "}":
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2776734091283956089_70093684086300'
+
+Started POST "/__better_errors/cf5091f36d273cf4/variables" for ::1 at 2020-12-10 14:43:26 -0500
+Started GET "/" for ::1 at 2020-12-10 14:43:29 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.6ms)
+  Rendered shared/_sections_nav.html.erb (0.6ms)
+  Rendered shared/_search_modal.html.erb (0.9ms)
+  Rendered shared/_main_content.html.erb (1.0ms)
+  Rendered static_pages/index.html.erb within layouts/application (11.0ms)
+Completed 500 Internal Server Error in 56ms (ActiveRecord: 0.0ms)
+
+
+
+Sass::SyntaxError - Invalid CSS after "	border-color:": expected expression (e.g. 1px, bold), was "}":
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2776734091283956089_70093681373160'
+
+Started POST "/__better_errors/89527b727966eeb1/variables" for ::1 at 2020-12-10 14:43:30 -0500
+Started GET "/" for ::1 at 2020-12-10 14:43:34 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.0ms)
+  Rendered shared/_masthead.html.erb (0.8ms)
+  Rendered shared/_sections_nav.html.erb (0.6ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (17.5ms)
+Completed 500 Internal Server Error in 81ms (ActiveRecord: 0.0ms)
+
+
+
+Sass::SyntaxError - Invalid CSS after "	border-color:": expected expression (e.g. 1px, bold), was "}":
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2776734091283956089_70093686036640'
+
+Started POST "/__better_errors/e07b18813cc76be0/variables" for ::1 at 2020-12-10 14:43:35 -0500
+Started GET "/" for ::1 at 2020-12-10 14:45:11 -0500
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.8ms)
+  Rendered shared/_masthead.html.erb (1.2ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (21.2ms)
+Completed 200 OK in 172ms (Views: 170.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e86b015d75b155f6859f2151a1227144c134c9ce839fc70564ab06b11b45f4ff.css?body=1" for ::1 at 2020-12-10 14:45:11 -0500
+Started GET "/assets/application.self-e86b015d75b155f6859f2151a1227144c134c9ce839fc70564ab06b11b45f4ff.css?body=1&livereload=1607629619442" for ::1 at 2020-12-10 14:46:59 -0500
+Started GET "/assets/application.self-e86b015d75b155f6859f2151a1227144c134c9ce839fc70564ab06b11b45f4ff.css?body=1&livereload=1607629619444" for ::1 at 2020-12-10 14:46:59 -0500
