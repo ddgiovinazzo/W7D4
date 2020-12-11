@@ -39,6 +39,10 @@ ul.editions {
     border-bottom: 1px solid $light-gray;
 }
 
+ul.help li a {
+    color: $blue;
+}
+
 li:hover .gear-dropdown {
     display: block;
 
