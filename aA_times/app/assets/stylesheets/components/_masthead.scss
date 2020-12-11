@@ -6,15 +6,25 @@
 	position: relative;
 }
 
+li a:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+nav.language-nav ul li:first-child{
+	font-weight: bold;
+}
+
 .language-nav {
 	position: absolute;
 	top: -15px;
 	left: calc(50% - (177.78px/2));
 	background: white;
 	border: 1px solid $light-gray;
-	border-bottom: none;
+	border-bottom: 2px solid white;
 	border-top-left-radius: 3px;
 	border-top-right-radius: 3px;
+	padding-top: 1px;
 
 	a {
 		margin: 0 5px;

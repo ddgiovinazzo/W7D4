@@ -1,0 +1,23 @@
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    flex-shrink: 2;
+}
+
+li {
+    display: flex;
+    flex-shrink: 2;
+    flex-wrap: nowrap;
+    padding: 5px;
+}

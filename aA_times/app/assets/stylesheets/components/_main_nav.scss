@@ -54,3 +54,19 @@
   background-color: $lightest-gray;
 
 }
+
+.right-nav> ul > li.blue button {
+  background-color: $dark-blue;
+  color: white;
+  border-radius: 3px;
+  font-weight: bold;
+}
+
+li #cog-btn {
+  position: relative;
+}
+
+
+.right-nav> ul > li.blue button:hover {
+  background-color: $darkest-blue;
+}
