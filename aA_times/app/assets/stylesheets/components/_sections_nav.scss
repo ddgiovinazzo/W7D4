@@ -8,14 +8,14 @@ a:hover {
     text-decoration: underline;
 }
 
-ul {
+.section-nav ul {
     display: flex;
     justify-content: space-between;
     flex-wrap: nowrap;
     flex-shrink: 2;
 }
 
-li {
+.section-nav li {
     display: flex;
     flex-shrink: 2;
     flex-wrap: nowrap;
